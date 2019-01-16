@@ -14,4 +14,4 @@ python-projects is a repository created in order for me to experiment with the p
 
 ## Authors
 
-* **James Liang** - *Initial work* - [jimbucktoo](https://github.com/jimbucktoo/jimbucktoo)
+* **James Liang** - *Initial work* - [jimbucktoo](https://github.com/jimbucktoo/)
